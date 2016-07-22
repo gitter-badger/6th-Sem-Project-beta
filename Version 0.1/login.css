@@ -1,0 +1,45 @@
+body {
+	background-color: white;
+	margin: 0px;
+	background-image: url("books2.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container {
+	margin: auto;
+}
+#login {
+	box-shadow: 2px 2px 60px -4px  black;
+	border-radius: 1px;
+	margin: auto;	
+	margin-top:12%;
+	background-color: #E0E0E0;
+	padding: 25px;
+	width: 20%;
+
+}
+#login img {
+	display: block;
+	margin:auto;
+	margin-bottom: 30px;
+	border-radius: 100px;
+	height: 150px;
+	width: 150px;
+}
+#email_input {
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px; 
+	font-size: 16px;
+	width: 250px;
+}
+#submit {
+	background-color: #47a3da;
+	border-radius: 5px;
+	margin: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 9px;
+	color: white;
+	width:260px;
+}
